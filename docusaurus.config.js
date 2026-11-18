@@ -23,7 +23,7 @@ const config = {
   url: 'https://jade-city2.github.io/spacexylophone/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/spacexylophone/',
+  baseUrl: '/spacexylophone',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -97,7 +97,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/jade-city2/spacexylophone',
             label: 'GitHub',
             position: 'right',
           },
