@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://jade-city2.github.io/spacexylophone/',
+  url: 'https://blog.homelabb.win',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/spacexylophone/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'jade-city2', // Usually your GitHub org/user name.
+  projectName: 'spacexylophone', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
